@@ -1,0 +1,99 @@
+:root {
+    --color-mint:rgb(116, 222, 236);
+    --color-lightblue:rgb(232, 248, 253);
+    --color-darkgray:rgb(48, 48, 48);
+}
+
+* {
+    box-sizing: border-box;
+    padding: 0;
+    margin: 0;
+}
+
+body {
+    
+    margin: ;
+    background: rgb(232, 248, 253);
+}
+
+div {
+    background-color: rgb(48, 48, 48);
+    width: 100%;
+    height: 80px;
+    margin-bottom: 5%;
+    padding: 0%;
+    padding-bottom: 
+    
+}
+
+div nav {
+    ;
+}
+
+nav {
+    
+
+}
+
+ul {
+    display: flex;
+    list-style: none;
+    padding: 0 20% 0 30%;
+    align-content: end;
+    position: relative;
+    bottom: 80px;
+    text-align: end;
+    padding-right: 
+    
+}
+
+nav {
+    position: relative;
+    top: 5px
+}
+.info-link {
+    width: 100%;
+    justify-content: end;
+    padding-left:  ;
+    padding: ;
+    padding-top: 
+    padding-bottom: ;   
+    
+}
+
+a {
+    text-decoration:underline;
+    text-decoration-thickness: 3px;
+    text-underline-offset: 10px;
+    color: var(--color-mint);
+}
+
+.name {
+    display: inline-block;
+    position: relative;
+    bottom: 35px;
+    padding: px;
+    margin-top: 40px;
+    text-align: start;
+    background-color: var(--color-mint);
+    padding-left: 8%;
+    padding-right: 1%;
+    font-size: x-large;
+    color: var(--color-darkgray);
+}
+
+.cool-picture {
+   display: flex;
+   width: 100%;
+   height: 300px;
+}
+
+
+
+@media screen and (min-width: 768px) {
+
+}
+    
+@media screen and (min-width: 992px) {
+    
+  }
